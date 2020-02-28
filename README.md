@@ -76,3 +76,5 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | [Gitting Things Done](https://confoo.ca/en/yul2020/session/gitting-things-done) | [Juliette Reinders Folmer](https://confoo.ca/en/speaker/juliette-reinders-folmer) | [Slides](https://speakerdeck.com/jrf/gitting-things-done) |
 | [WebAssembly Overview](https://confoo.ca/en/yul2020/session/webassembly-overview) | [Gerard Gallant](https://twitter.com/Gerard_Gallant) | [Slides](2020-02-28/WebAssembly_Overview-Gerard_Gallant.pdf) |
 | [Up and Running with Angular](https://confoo.ca/en/yul2020/session/up-and-running-with-angular) | [Justin James](https://letyournerdbeheard.com) | [Slides](https://github.com/confooca/yul2020-slides/blob/master/2020-02-27/Up%20and%20Running%20With%20Angular%20in%2045%20Minutes%20-%20ConFoo%20Montreal%202020.pdf) |
+
+POUET
